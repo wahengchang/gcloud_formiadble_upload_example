@@ -1,0 +1,12 @@
+node_modules
+dist
+.tmp
+.*swp
+*.log
+.sass-cache
+app/bower_components
+parse.exe
+.deployment
+deploy.sh
+config.json
+bin

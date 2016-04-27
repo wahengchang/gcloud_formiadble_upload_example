@@ -1,0 +1,7 @@
+{
+  "private_key_id": "YOUR_private_key_id",
+  "private_key": "-----BEGIN PRIVATE KEY-----\n-----END PRIVATE KEY-----\n",
+  "client_email": "YOUR_client_email",
+  "client_id": "YOUR_client_id",
+  "type": "YOUR_type"
+}
